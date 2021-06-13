@@ -7,20 +7,21 @@ Thank you.
 ## Getting Started
 To get started you need to:
 
-Clone the repository.
-Install dependencies and Prerequisites
-Run Python Script
-Prerequisites
-Windows or Ubuntu 18.04 bionic
-Python Dependencies
-Conda Environment (Follow only if normal python Env. not working)
-Installing
-Python Dependencies
+- Clone the repository.
+- Install dependencies and Prerequisites
+- Run Python Script
+- Prerequisites
+   - Windows or Ubuntu 18.04 bionic
+- Python Dependencies
+  - Conda Environment (Follow only if normal python Env. not working)
 
-sudo apt install python3-dev python3-pip
-pip install --upgrade pip
+## Installing
+- Python Dependencies
 
-Conda Steps to follow
+ sudo apt install python3-dev python3-pip
+ pip install --upgrade pip
+
+ Conda Steps to follow
 ## Installation
 
 https://docs.anaconda.com/anaconda/install/linux/#installing-on-linux
