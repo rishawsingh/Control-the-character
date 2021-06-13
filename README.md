@@ -35,4 +35,4 @@ conda install tk
 ## Execution
 Go to clone folder
 
-python3 Character_control_using_body_posture.py
+python3 Control-the-character.py
